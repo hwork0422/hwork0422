@@ -109,7 +109,7 @@
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
  &emsp; 
-     <a href="https://firebase.google.com/"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white"></a>
+     <a href="https://aws.amazon.com/"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white"></a>
  &emsp; 
 </p>
 
@@ -122,8 +122,6 @@
      <a href="#"><img alt="Github" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"></a>
 &emsp;
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
 
 </p>
