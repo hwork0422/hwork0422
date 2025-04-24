@@ -72,7 +72,7 @@
   </a>
   &emsp; 
   <a href="https://vuejs.org" target="_blank"> 
-    <img alt="Vue" src="https://img.shields.io/badge/vue-%23DD0031.svg?style=flat&logo=vue&logoColor=white"/>
+    <img alt="Vue" src="https://img.shields.io/badge/Vue-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D"/>
   </a>
   &emsp; 
   <a href="https://angular.io" target="_blank"> 
