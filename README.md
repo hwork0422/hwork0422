@@ -75,10 +75,6 @@
     <img alt="Vue" src="https://img.shields.io/badge/Vue-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D"/>
   </a>
   &emsp; 
-  <a href="https://angular.io" target="_blank"> 
-    <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>
-  </a>
-  &emsp; 
 </p>
 
 ### 👉 Backend Development
